@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Oğuzcan 
+# Hi there! 
 
 I'm Oğuzcan Ertül, a passionate software developer dedicated to building creative, efficient, and user-focused solutions. My goal is to create high-performance, maintainable applications by leveraging both backend and frontend technologies.
 
